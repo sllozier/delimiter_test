@@ -1,4 +1,4 @@
-public class Time implements Comparable<Time> {
+public class BadTime implements Comparable<Time> {
 
 	private final int hour;
 	private final int minute;
